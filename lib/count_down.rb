@@ -2,6 +2,6 @@
 countdown = 10 
 while (countdown > 0) do 
   countdown -= 1
-  puts "#{countdown}"
+  puts countdown
 end 
 puts "Happy New Year!"
